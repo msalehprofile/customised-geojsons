@@ -9,7 +9,7 @@
     {
       "type": "Feature",
       "properties": {
-        "DATASET": "Northern Ireland"
+        "Name": "Northern Ireland"
       },
       "geometry": {
         "type": "MultiPolygon",
